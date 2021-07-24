@@ -30,12 +30,12 @@ samples, guidance on mobile development, and a full API reference.
   </tr>
     <tr>
     <th>Dissmisable to del</th>
-    <th>Login</th> 
-    <th>Main</th>
+    <th>lognOut drawer</th> 
+    <th>edding page</th>
   </tr>
   <tr>
     <td><img src="assets/snapshoot/Screenshot_1627142604.png" alt="loge in page" width="300" height="600"></td>
     <td><img src="assets/snapshoot/Screenshot_1627142562.png" alt="loge in page" width="300" height="600"></td>
-    <td><img src="assets/snapshoot/Screenshot_1627142533.png" alt="loge in page" width="300" height="600"></td>
+    <td><img src="assets/snapshoot/Screenshot_1627144549.png" alt="loge in page" width="300" height="600"></td>
   </tr>
 </table>
