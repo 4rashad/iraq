@@ -1,0 +1,13 @@
+{
+    "language": "English",
+    "@language": {
+    "description": "The conventional newborn programmer greeting"
+  },
+    "notes"    : "Notes",
+    "onChange"    : "edditing",
+    "newNote"    : "New Notes",
+     "logIn"    : "LogIn",
+    "logOut"    : "LogOut",
+    "remove"    : "Remove",
+    "noNotes"    : "No Notes"
+}

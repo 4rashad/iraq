@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "302213016110",
+    "firebase_url": "https://iraq-4e23f-default-rtdb.firebaseio.com",
+    "project_id": "iraq-4e23f",
+    "storage_bucket": "iraq-4e23f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302213016110:android:71a9fe078cec6f10454dbf",
+        "android_client_info": {
+          "package_name": "com.example.iraq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302213016110-ltfmbvtig13e1n0gqu4t4uf9j7d7it38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iraq",
+            "certificate_hash": "1a762724655042913835245020b52391ada3fd91"
+          }
+        },
+        {
+          "client_id": "302213016110-gmrnn4kh29jb3h4h12k0k1kenelk5n60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6HBs47O1ABj2kaNncme0XYmS5wR1Zbvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302213016110-gmrnn4kh29jb3h4h12k0k1kenelk5n60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
