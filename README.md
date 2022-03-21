@@ -1,4 +1,4 @@
-# Note app useing provider and firebase auth and database
+# Note app useing provider and firebase auth and firebasedatabase
 
 A new Flutter project.
 
@@ -31,7 +31,7 @@ samples, guidance on mobile development, and a full API reference.
     <tr>
     <th>Dissmisable to del</th>
     <th>lognOut drawer</th> 
-    <th>edding page</th>
+    <th>editing page</th>
   </tr>
   <tr>
     <td><img src="assets/snapshoot/Screenshot_1627142604.png" alt="loge in page" width="300" height="600"></td>
